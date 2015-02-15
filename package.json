@@ -9,16 +9,19 @@
   },
   "author": "Toshiyuki Takahashi",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gau/ai-preview.git"
-  },
-  "bugs": {
-    "url": "https://github.com/gau/ai-preview/issues"
-  },
-  "homepage": "https://github.com/gau/ai-preview",
   "devDependencies": {
     "browser-sync": "^2.0.1",
     "gulp": "^3.8.11"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gau/ai-preview.git"
+  },
+  "keywords": [
+    "illustrator"
+  ],
+  "bugs": {
+    "url": "https://github.com/gau/ai-preview/issues"
+  },
+  "homepage": "https://github.com/gau/ai-preview"
 }
